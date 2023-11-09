@@ -3,7 +3,7 @@
 /* 
   bg-color f9fafb 
   label color: #777
-  sucess: 2ecc71
+  success: 2ecc71
   error: e74c3c
   button: #3498db;
 */
@@ -76,9 +76,10 @@ body {
   background-color: var(--light-blue);
   color: #fff;
   cursor: pointer;
+  margin-top: 20px;
 }
 
-.form-control.sucess input {
+.form-control.success input {
   border: 1px solid var(--green);
 }
 
