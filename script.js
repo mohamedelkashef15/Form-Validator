@@ -6,6 +6,7 @@
   5- check length(input, min, max) => for username, password
   6- check email(email)
   7- check password match(pass1, pass2)
+  Add comment
 */
 
 const form = document.getElementById("form");
